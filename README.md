@@ -1,0 +1,1 @@
+# Rejestrator-obecno-ci-na-wydarzeniu-

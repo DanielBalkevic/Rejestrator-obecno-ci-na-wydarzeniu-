@@ -34,3 +34,6 @@ Każda operacja działa na kopii stanu i zapisuje się dopiero po pozytywnej wal
 
 ## Wsparcie AI i źródła
 Kod został przygotowany z HERMES AI AGENT.
+
+## WEB PAGE
+danielbalkevic.github.io
